@@ -187,7 +187,7 @@ class Person {
 
 ### Converting Instances
 
-When creating code to convert instances from one type to another `init()` methods:
+When creating code to convert instances from one type to another, use `init()` methods:
 
 ```swift
 extension NSColor {
